@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Nessi",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "quote": " I have always suspected that too much knowledge is a dangerous thing.t have deep feelings",
+    "emoji": "😊",
+    "address": "Broklyne, NY"
+  },
+  {
+    "name": "Devid",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "quote": "I have always suspected that too much knowledge is a dangerous thing.t have deep feelings",
+    "emoji": "😍",
+    "address": "Los Angeles, CA"
+  },
+  {
+    "name": "Jenny",
+    "avatar": "https://images.unsplash.com/photo-1496081081095-d32308dd6206?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=dd302358c7e18c27c4086e97caf85781",
+    "emoji": "😘",
+    "quote": "To see and to be seen, in heaps they run; Some to undo, and some to be undone.",
+    "address": "New Yourk"
+  },
+  {
+    "name": "Lora",
+    "avatar": "https://randomuser.me/api/portraits/men/97.jpg",
+    "emoji": "😁",
+    "quot": "Death is a very dull, dreary affair, and my advice to you is to have nothing whatsoever to do with it.",
+    "address": "Vatican City, VC"
+  },
+  {
+    "name": "Khalid",
+    "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+    "quote": "The greatest difficulties lie where we are not looking for them.",
+    "emoji": "🥰",
+    "address": "Berlin HO, BH"
+  },
+  {
+    "name": "Rashad",
+    "avatar": "https://randomuser.me/api/portraits/men/35.jpg",
+    "quote": "There never was a man who said one word for woman but he said two for man and three for the whole human race.",
+    "emoji": "🤩",
+    "address": "Dhaka City, DC"
+  }
+]
